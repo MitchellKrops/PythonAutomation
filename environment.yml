@@ -6,4 +6,5 @@ dependencies:
   - pip
   - pip:
     - tabulate
+    - google.colab
     
